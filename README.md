@@ -20,11 +20,11 @@
 
 ## Projects
 
-### 1. **[Export-Import Data Management](#)**  
+### 1. **[Export-Import Data Management](https://github.com/akilmuh/export-import-data-management)**  
 A project simulating the processing and validation of export-import documents for a customs office.  
 - Processed over 100 documents ensuring data accuracy.  
 
-### 2. **[Google Data Analytics Capstone](#)**  
+### 2. **[Google Data Analytics Capstone](https://github.com/akilmuh/google-data-analytics-capstone)**  
 Part of the Google Data Analytics Certificate program.  
 - Conducted a complete data analysis cycle, including data cleaning, visualization, and reporting.  
 
