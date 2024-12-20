@@ -1,6 +1,6 @@
 # Muh. Akil
 
-👋 Hi! I am Muh. Akil, a graduate of Statistics with a strong interest in data administration and management, data entry and data analyst. I enjoy analyzing data and using tools like SQL, Excel and spreadsheets to uncover insights.  
+👋 Hi! I am Muh. Akil, a graduate of Statistics with a strong interest in data administration and management, data entry, and data analyst. I enjoy analyzing data and using tools like SQL, Excel and spreadsheets to uncover insights.  
 
 📍 **Location:** Makassar, Indonesia  
 📧 **Email:** muh.akilbs@gmail.com  
