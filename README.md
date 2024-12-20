@@ -23,7 +23,6 @@
 ### 1. **[Export-Import Data Management](#)**  
 A project simulating the processing and validation of export-import documents for a customs office.  
 - Processed over 100 documents ensuring data accuracy.  
-- Used SQL for data validation and reporting.  
 
 ### 2. **[Google Data Analytics Capstone](#)**  
 Part of the Google Data Analytics Certificate program.  
