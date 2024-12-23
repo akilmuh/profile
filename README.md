@@ -34,4 +34,12 @@ A project simulating the processing and validation of export-import documents fo
 Part of the Google Data Analytics Certificate program.  
 - Conducted a complete data analysis cycle, including data cleaning, visualization, and reporting.  
 
+### 4. **[Sales Data Analysis](https://github.com/akilmuh/Analisis-Data-Penjualan)**
+This project focuses on analyzing sales data to identify trends, patterns, and performance of products across different brands over a three-month period.
+- Calculated total sales and monthly averages for each brand.
+- Analyzed which brand experienced a significant increase in sales over time.
+- Compiled a report to provide insights into sales performance and offer recommendations for further marketing strategies.
+- Utilized data analysis and presentation skills in Microsoft Excel.
+
+
 ---
